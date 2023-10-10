@@ -1,5 +1,5 @@
 title: Thanush Ramesh
-logo: https://github.com/thanush-ramesh/portfolio/blob/main/assets/headshot-circle.jpg
+logo: /assets/headshot-circle.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
